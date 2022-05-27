@@ -19,7 +19,7 @@ This is the developer web site for TEAMMATES. **Click [here](http://teammatesv4.
 ### Documentation for:
 * [**Developers** :book:](https://teammates.github.io/teammates)
 * [**Instructors** :book:](https://teammatesv4.appspot.com/web/front/help/instructor)
-* [**Students** :book:](https://teammatesv4.appspot.com/web/front/help/students)
+* [**Students** :book:](https://teammatesv4.appspot.com/web/front/help/student)
 
 ### Other Documentation:
 * [Version History](https://github.com/TEAMMATES/teammates/milestones?direction=desc&sort=due_date&state=closed)
