@@ -1,7 +1,3 @@
-<frontmatter>
-  title: "Best Practices: Data Migration"
-</frontmatter>
-
 # Data Migration Best Practices
 
 Data migration is necessary when a new, possibly backwards-incompatible, schema is introduced in the code base.
