@@ -1,7 +1,3 @@
-<frontmatter>
-  title: "Design"
-</frontmatter>
-
 # Design
 
 ## Architecture
