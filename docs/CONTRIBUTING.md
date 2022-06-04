@@ -90,7 +90,7 @@ Steps for fixing an issue are lined out in the [process document](process.md).
 
 > In the event that you cannot find a `good first issue`-labelled issue, you can start with a `help wanted`-labelled issue.
 
-#### Important
+## Important
 
 Fixing an issue quickly is not the important thing. In fact, issues given to new contributors are the ones we already know how to fix.
 We are more interested to see how you go about fixing the issue. We want to know whether you are systematic and detail-oriented.
