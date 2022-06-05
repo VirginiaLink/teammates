@@ -1,7 +1,3 @@
-<frontmatter>
-  title:  "Snapshot Testing"
-</frontmatter>
-
 # Snapshot Testing
 
 ## What is Snapshot Testing?
