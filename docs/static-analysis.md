@@ -1,3 +1,7 @@
+<frontmatter>
+  title: "Static Analysis"
+</frontmatter>
+
 # Static Analysis
 
 TEAMMATES uses a number of static analysis tools in order to maintain code quality.
