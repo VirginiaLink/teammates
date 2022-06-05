@@ -1,3 +1,7 @@
+<frontmatter>
+  title: "Search"
+</frontmatter>
+
 # Full-text Search Feature Support
 
 We use [Apache Solr](https://solr.apache.org/guide/8_11/) to support full-text search features required by the application, such as searching for students and instructors.
