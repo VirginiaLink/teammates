@@ -1,3 +1,7 @@
+<frontmatter>
+  title: "Troubleshooting Guide"
+</frontmatter>
+
 # Developer Troubleshooting Guide
 
 This document can help you to fix the common problems encountered while contributing to TEAMMATES.
