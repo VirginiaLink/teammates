@@ -1,3 +1,7 @@
+<frontmatter>
+  title: "Best Practices: Testing"
+</frontmatter>
+
 # Testing Best Practices
 
 The goal is to make the system as fully covered by automated tests as possible.
