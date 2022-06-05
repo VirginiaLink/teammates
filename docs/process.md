@@ -1,3 +1,7 @@
+<frontmatter>
+  title: "Process"
+</frontmatter>
+
 # Development Workflow
 
 This is the project-wide development workflow for TEAMMATES.
