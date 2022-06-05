@@ -1,7 +1,3 @@
-<frontmatter>
-  title: "Setting Up"
-</frontmatter>
-
 # Setting up a development environment
 
 This is a step-by-step guide for setting up a development environment on your local machine.
