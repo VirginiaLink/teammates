@@ -1,7 +1,3 @@
-<frontmatter>
-  title : "Glossary"
-</frontmatter>
-
 # Glossary
 
 This document lines out the common terms used in the project.
