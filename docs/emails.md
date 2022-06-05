@@ -1,7 +1,3 @@
-<frontmatter>
-  title: "Emails"
-</frontmatter>
-
 # Using alternative email providers
 
 In order for actual emails to be sent by the system, we need to use third-party email service.
