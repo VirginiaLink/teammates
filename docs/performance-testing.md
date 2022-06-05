@@ -1,7 +1,3 @@
-<frontmatter>
-  title: "Performance Testing"
-</frontmatter>
-
 # Performance Testing
 
 TEAMMATES makes use of [JMeter](https://jmeter.apache.org/) for load and performance (L&P) testing, and uses the [JMeter Java API](https://jmeter.apache.org/api/index.html) and TestNG to automate the process of running performance tests.
