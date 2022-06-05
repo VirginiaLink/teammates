@@ -1,7 +1,3 @@
-<frontmatter>
-  title: "Issues"
-</frontmatter>
-
 # Issue tracker
 
 This document describes how the issue tracker is used by the TEAMMATES project.
