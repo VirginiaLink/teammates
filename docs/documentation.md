@@ -1,3 +1,7 @@
+<frontmatter>
+  title: "Documentation"
+</frontmatter>
+
 # Documentation
 
 This project uses [MarkBind](https://markbind.org/) for developer documentation. MarkBind is used to create a static site, and can parse markdown, GitHub Flavoured Markdown, and more.
